@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Effective Altruism on Miranda Zhang&#39;s Website</title>
+        <link>https://example.com/categories/effective-altruism/</link>
+        <description>Recent content in Effective Altruism on Miranda Zhang&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://example.com/categories/effective-altruism/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
+ex.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Why I&#39;m working at Anthropic</title>
+        <link>https://example.com/p/anthropic-rationale/</link>
+        <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/anthropic-rationale/</guid>
+        <description>&lt;img src="https://example.com/anthropic_text.png" alt="Featured image of post Why I&#39;m working at Anthropic" /&gt;&lt;p&gt;There are four reasons I&amp;rsquo;m working at Anthropic: the potential for in/direct impact, upskilling, and career capital. I&amp;rsquo;ve put my weights out of 100% (note: these are &lt;a class=&#34;link&#34; href=&#34;https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view#Taboo_Outside_View__use_this_list_of_words_instead&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ass numbers&lt;/a&gt;) in parentheses.&lt;/p&gt;
+&lt;p&gt;While I list key assumptions for each reason, I am assuming that you have background context on &lt;a class=&#34;link&#34; href=&#34;https://example.com/about&#34; &gt;my cause priorities&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;upskilling-50&#34;&gt;Upskilling (50%)&lt;/h2&gt;
+&lt;h3 id=&#34;testing-my-fit-for-operations-and-gaining-skills&#34;&gt;Testing my fit for operations and gaining skills&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[Some aspect of] Operations could be my comparative advantage, since I am a good fit for community-building and operations has overlapping skills.&lt;/li&gt;
+&lt;li&gt;I haven&amp;rsquo;t been exposed to much operations work.&lt;/li&gt;
+&lt;li&gt;Operations (in the EA generalist sense of, &lt;a class=&#34;link&#34; href=&#34;https://forum.effectivealtruism.org/posts/ib6hy9v3FgigxMuMM/what-is-operations-management#Why_I_wrote_this&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;basically anything non-technical&lt;/a&gt;) is currently a bottleneck in the EA community, particularly for longtermist organisations.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The first three suggest that I should test my fit for operations, which is exactly what I&amp;rsquo;m doing! Some background context is that I fell in love with EA community-building in 2021 while organizing &lt;a class=&#34;link&#34; href=&#34;uchicagoea.org&#34; &gt;UChicago EA&lt;/a&gt;, but I don&amp;rsquo;t want to commit too quickly without &lt;a class=&#34;link&#34; href=&#34;https://80000hours.org/articles/exploration/#&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;seeing&lt;/a&gt; if I might be a better fit&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for something else.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The fourth increases Anthropic&amp;rsquo;s appeal, since it&amp;rsquo;s a scrappy and expanding start-up. Anthropic seems &lt;em&gt;particularly&lt;/em&gt; good for me because I suspect I am not that compatible with start-up culture&amp;hellip; But, fortunately, I am joining at an unusual time when they are (a) still scrappy and looking for generalists that &lt;em&gt;have to do everything,&lt;/em&gt; yet (b) have a decent operations team (of ~three) that are relatively more experienced. This means I can be exposed to loads of operations work but still have a supportive team that I can learn from (as opposed to supportive colleagues without operations experience).&lt;/p&gt;
+&lt;p&gt;Presumably, if I end up being an operations wonder, I can use this knowledge and experience to be an impact multiplier for organizations! (And if I don&amp;rsquo;t, oh well, I get to go back to my first love: multiplying my own impact by recruiting people for a community, not an organization.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strongest counterpoint(s)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I should be testing fit for non-Operations work instead.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;I should have just exploited my community-building skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;career-capital-20&#34;&gt;Career Capital (20%)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Working at Anthropic will make it easier for me to work at other, bigger AI labs (e.g., DeepMind). This is good for the reasons listed in &lt;a href=&#34;#indirect-impact-20&#34;&gt;indirect impact&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Of my options, Anthropic carried relatively more status.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As an early-career person (literally, &lt;em&gt;this is my first full-time job&lt;/em&gt;), I think it makes sense for me to place the most weight on upskilling and career capital, which I view as investments in my &lt;a class=&#34;link&#34; href=&#34;https://80000hours.org/articles/career-capital/#should-you-wait-to-have-an-impact&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;lifetime impact&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strongest counterpoint(s)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I may not want to keep working at AI labs (e.g., if I decide to do general EA community-building instead)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;direct-impact-10&#34;&gt;Direct Impact (10%)&lt;/h2&gt;
+&lt;h3 id=&#34;increasing-the-probability-that-anthropic-is-the-first-to-build-agi&#34;&gt;Increasing the probability that Anthropic is the first to build AGI&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Of the current ~5 actors most likely to build artificial general intelligence (AGI),&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; Anthropic seems the most aligned with effective altruism (EA) principles and community. This implies they prioritize AI safety over capabilities.&lt;/li&gt;
+&lt;li&gt;It seems possible—if not probable—that Anthropic will be the first to build AGI.&lt;/li&gt;
+&lt;li&gt;Improving Anthropic&amp;rsquo;s operations will increase the probability that Anthropic will be the first to build AGI.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If these assumptions hold, then it seems good for me to help increase the possibility that the most aligned actor is the first to build AGI (e.g., by recruiting top engineers and researchers; reducing non-technical burdens on technical staff).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strongest counterpoint(s)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anthropic may not have a well-developed strategy for building (+ deploying) safe AGI, and so may be advancing capabilities work more than safety work.&lt;/li&gt;
+&lt;li&gt;Anthropic is unlikely to &amp;lsquo;win&amp;rsquo; the AGI race.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;indirect-impact-20&#34;&gt;Indirect Impact (20%)&lt;/h2&gt;
+&lt;h3 id=&#34;maintain-anthropics-alignment-with-the-ea-and-suffering-focused-ethics-sfe-communities&#34;&gt;Maintain Anthropic&amp;rsquo;s alignment with the EA and suffering-focused ethics (SFE) communities&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Assumptions&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Anthropic&amp;rsquo;s team has relatively fewer EAs, or relatively weaker self-identification with the EA community, compared to organizations such as &lt;a class=&#34;link&#34; href=&#34;https://www.redwoodresearch.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Redwood Research&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;https://intelligence.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MIRI&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Organizational alignment can change depending on its team.&lt;/li&gt;
+&lt;li&gt;Anthropic&amp;rsquo;s leadership has historically been open to considering &lt;a class=&#34;link&#34; href=&#34;https://centerforreducingsuffering.org/research/intro/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;s-risks&lt;/a&gt;, which is a potential top priority for the &lt;a class=&#34;link&#34; href=&#34;https://longtermrisk.org/the-case-for-suffering-focused-ethics/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;suffering-focused&lt;/a&gt; community.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It&amp;rsquo;s unclear how stable Anthropic&amp;rsquo;s alignment with EA is. While they are aligned, they don&amp;rsquo;t explicitly mention EA or related terms such as &amp;rsquo;existential risk,&amp;rsquo; (unlike &lt;a class=&#34;link&#34; href=&#34;https://rethinkpriorities.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Rethink Priorities&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.legalpriorities.org/about.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Legal Priorities Project&lt;/a&gt;, or &lt;a class=&#34;link&#34; href=&#34;https://www.openphilanthropy.org/cause-selection/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Open Philanthropy&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also heard that Anthropic has been open to factoring s-risks into their thinking, which—as a very suffering-focused person—makes me more excited to work there.&lt;/p&gt;
+&lt;p&gt;Thus, being another EA- and SFE-aligned presence at Anthropic could help sustain its alignment with the EA and SFE communities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Strongest counterpoint(s)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The counterfactual impact might be larger at a less-aligned organization (e.g., DeepMind, OpenAI).&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;The absolute impact might be larger at a more-aligned organization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I&amp;rsquo;m using &amp;ldquo;best fit&amp;rdquo; to include &lt;a class=&#34;link&#34; href=&#34;https://80000hours.org/articles/framework/#how-should-you-weigh-these-factors&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;all the factors of personal impact&lt;/a&gt;, ranging from personal fit to impact.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Classic &lt;a class=&#34;link&#34; href=&#34;https://conceptually.org/concepts/explore-or-exploit&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;explore vs exploit&lt;/a&gt;, you know.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;I am sort of doing this for AI safety technical research, AI strategy, and s-risk/AI safety field-building.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;In no particular order, I think this set contains DeepMind, OpenAI, Meta, Anthropic, and the Chinese government.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;However, it also seems less tractable to influence a less-aligned organization.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>My cup overfloweth: I am beyond grateful to the EA community, which has *continuously* exceeded my expectations.</title>
+        <link>https://example.com/p/my-cup-overfloweth/</link>
+        <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/my-cup-overfloweth/</guid>
+        <description>&lt;p&gt;My cup overfloweth ☕ Beyond grateful to the EA community, which has &lt;em&gt;continuously&lt;/em&gt; exceeded my expectations. Acquaintances and friends alike have supported me emotionally, logistically, and financially, enabling me to keep pursuing what I think are the likeliest paths for me to have the most positive impact.&lt;/p&gt;
+&lt;p&gt;Is this partly due to EA&amp;rsquo;s unusually high trust in its community? If so, this is yet another special thing I want to preserve about EA.&lt;/p&gt;
+&lt;p&gt;The other part, I&amp;rsquo;m sure, comes from how EA attracts some of the world&amp;rsquo;s most kind, intelligent, &amp;amp; driven people. 🥰&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Thoughts on &#39;Less often discussed EA emotional patterns&#39;</title>
+        <link>https://example.com/p/less-often-discussed-ea-emotional-patterns/</link>
+        <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/less-often-discussed-ea-emotional-patterns/</guid>
+        <description>&lt;p&gt;I love &lt;a class=&#34;link&#34; href=&#34;https://forum.effectivealtruism.org/posts/gHuYfvB3ALhjTd4SQ/less-often-discussed-ea-emotional-patterns?fbclid=IwAR1piUPpYKTkXemmsfzbsB22Aers-L8om7O8U7WwFCT92stm2gXtaxREJxc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;this Forum post&lt;/a&gt;. It captures a significant portion of my reflections on EA x mental health in the past 6 months.&lt;/p&gt;
+&lt;p&gt;Choice quotes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;But sometimes, doing altruistic things means doing something you don’t feel like doing. If working on your mental health seems like a daunting task you would rather avoid because spending your time working on EA things feels more urgent, other’s needs seem more important than your own, sacrificing yourself for others feels better than spending any effort on yourself – then spending significant effort to get better could actually be the best action for you right now.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I sometimes notice myself telling me that I am just too stupid and passive to ever get an impactful job in an EA hub, because it is somehow easier to think that instead of admitting that I just really don’t want to move to an EA hub (or anywhere from where I currently live). This is probably because I somehow think it is better to be stupid than selfish, or maybe it is because some part of me believes that I cannot fix stupidity, but I should be able to become more altruistic&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;“In a way, the fact that I donate regularly is a justification to keep on living, because each month I’m alive, I keep producing positive value.”&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;I think EA is very compelling for people who have trouble believing their lives have intrinsic worth. You cannot prove the intrinsic worth of anything (it is an axiom), but EA can give you a sense of estimating your instrumental worth, like how many lives you have saved by donating. [&amp;hellip;] Ironically, having your impact define your self-worth can actually reduce your impact in multiple ways&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Life is uncertain and making good decisions is difficult. Nobody, not even the EA movement, has a verified, all-encompassing model of the world.
+This can be a hard thing to admit especially for people who first became attracted to EA because of the “reason and evidence” part. This was certainly really tempting to me: the world seemed confusing and difficult, and all possible actions to make things right seemed to have downsides; and then, suddenly, a movement that tells me that there are estimates and calculations on what you should do, so if you want to know what to do, you can just look at the numbers and follow the result.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;the belief “I’m too stupid to work on AI risk” might be less crushing than “I would probably be able to work on AI risk, but I just don’t want relocate even if I get a job in the field, but also I think I should not mind relocating if it is necessary to work on AI risk because AI risk is super important, and if in 30 years everyone I love dies it’s going to be my fault”. Here, the perceived stupidness is protecting her from feeling ashamed or guilty for having preferences that are not optimized for saving the world.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Often, working on your mental health is locally a lot harder than sticking to the patterns you have learned. That’s why most people are only motivated to relearn their patterns only when they actually feel really awful.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(personal update: experimenting both with mainstream self-esteem interventions &amp;amp; more mindfulness-inspired abandoning-the-self stuff to work on the entanglement of personal worth w/ impact)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
