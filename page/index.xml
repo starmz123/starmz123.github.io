@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Miranda Zhang&#39;s Website</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on Miranda Zhang&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>&lt;center&gt;&lt;img src=&#34;https://example.com/text/about.png&#34; alt=&#34;About me&#34; width=&#34;200&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;I am passionate about supporting impact-oriented organizations and individuals, narrative change, and figuring out how to do the most good with my time here on Earth. That last part mostly looks like trying to figure out which careers might best leverage my skills and interests in doing good.&lt;/p&gt;
+&lt;p&gt;Right now, I do operations at &lt;a class=&#34;link&#34; href=&#34;https://www.anthropic.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Anthropic&lt;/a&gt;. Of course, all content on this website solely reflects my personal opinions, and do not represent Anthropic&amp;rsquo;s views or policies.  &lt;!-- This flows from my current priorities ([more here](https://starmz123.github.io/p/anthropic-rationale/)).--&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;B&gt;Skills&lt;/b&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;B&gt;Causes&lt;/b&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Operations&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&#34;https://centerforreducingsuffering.org/research/intro/&#34;&gt;The possibility of astronomical suffering&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Community-building/Field-building&lt;/td&gt;
+    &lt;td&gt;AI safety and alignment&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;Td&gt;Supportive generalist work&lt;/td&gt;
+    &lt;Td&gt;&lt;a href=&#34;https://longtermism.com/)&#34;&gt;Protecting future generations&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Communications&lt;/td&gt;
+    &lt;Td&gt;Animal welfare&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Policy/politics&lt;/td&gt;
+    &lt;Td&gt;Improving moral values and fostering value-aligned communities&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;I believe communication is key to effecting social change and I have explored different ways to message issues near and dear to my heart: &lt;a class=&#34;link&#34; href=&#34;https://www.effectivealtruism.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;effective altruism&lt;/a&gt;, housing policy, and civic action. &lt;strong&gt;You can find examples at my &lt;a class=&#34;link&#34; href=&#34;https://tinyurl.com/mhznotionfolio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;portfolio&lt;/a&gt;,&lt;/strong&gt; which showcases my writing, research, graphic design, and more!&lt;/p&gt;
+&lt;p&gt;I’m also really into&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coffee (especially single-origin or bird-friendly)&lt;/li&gt;
+&lt;li&gt;Roleplaying games&lt;/li&gt;
+&lt;li&gt;Musical theatre&lt;/li&gt;
+&lt;li&gt;Sunrises&lt;/li&gt;
+&lt;li&gt;Creating aesthetics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;img src=&#34;https://example.com/text/contact.png&#34; alt=&#34;Let&#39;s chat&#34; width=&#34;200&#34;/&gt;&lt;/center&gt;
+&lt;p&gt;The best way to reach me is through email: starmz12345(at)gmail.com&lt;/p&gt;
+&lt;p&gt;You can also find me on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://linkedin.com/in/miranda-h-zhang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/mirandahzhang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/StarmzMiranda/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://admonymous.co/starmz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Admonymous&lt;/a&gt; (leave me anonymous feedback!)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/starmz123/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://forum.effectivealtruism.org/users/miranda-zhang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The EA Forum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Subscribe</title>
+        <link>https://example.com/subscribe/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/subscribe/</guid>
+        <description>&lt;p&gt;Thank you for reading my blog!&lt;/p&gt;
+&lt;p&gt;Sign up &lt;a class=&#34;link&#34; href=&#34;https://tinyletter.com/mirandazhang&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt; to be notified of every new blog post or use this &lt;a href=&#34;https://example.com/index.xml&#34;&gt;RSS feed&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Miranda Zhang&#39;s Website</title>
+        <link>https://example.com/tags/</link>
+        <description>Recent content in Tags on Miranda Zhang&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>burnout</title>
+        <link>https://example.com/tags/burnout/</link>
+        <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/burnout/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>thought</title>
+        <link>https://example.com/tags/thought/</link>
+        <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/thought/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>reflection</title>
+        <link>https://example.com/tags/reflection/</link>
+        <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/reflection/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>music</title>
+        <link>https://example.com/tags/music/</link>
+        <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/music/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>linkpost</title>
+        <link>https://example.com/tags/linkpost/</link>
+        <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/linkpost/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>request</title>
+        <link>https://example.com/tags/request/</link>
+        <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/request/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>announcement</title>
+        <link>https://example.com/tags/announcement/</link>
+        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/announcement/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>EA Forum</title>
+        <link>https://example.com/tags/ea-forum/</link>
+        <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/ea-forum/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>growth mindset</title>
+        <link>https://example.com/tags/growth-mindset/</link>
+        <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/growth-mindset/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>pinned</title>
+        <link>https://example.com/tags/pinned/</link>
+        <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/tags/pinned/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
